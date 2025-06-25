@@ -1,8 +1,33 @@
-👋 I’m Edgar, an AI graduate student at Claude Bernard University Lyon 1.  
-🔬 Passionate about research, open-source, and applied machine learning.  
-🇯🇵 Preparing a research internship in Japan (2026) in computer vision, NLP, or AI ethics.  
-💡 I like clean code, smart interfaces, and good vizualisations of data.  
-📎 Projects: simulation, LLMs, vision, educational AI.
+# 👋 Hi, I'm Edgar Demeude
+
+🎓 **Graduate student in Artificial Intelligence**  
+*Université Claude Bernard Lyon 1 – France*  
+Currently preparing a **5–6 month research internship in Japan** (2026)
+
+---
+
+## 🚀 Interests & Focus
+
+- 🤖 **Applied AI**: computer vision, LLMs, robotics  
+- 📚 **Education & medicine**: meaningful, ethical tech  
+- 🧠 AI for social impact & critical thinking
+
+---
+
+## 💼 Skills
+
+**Languages**: Python, Java, C++  
+**Libraries**: PyTorch, scikit-learn, pandas, Keras  
+**Tools**: Git, Jupyter, REST APIs, Linux
+
+---
+
+## 📫 Contact
+
+- 📧 Email: [edgardemeude@proton.me](mailto:edgardemeude@proton.me)  
+- 💼 LinkedIn: [linkedin.com/in/edgar-demeude](https://www.linkedin.com/in/edgar-demeude)  
+
+---
 
 <!--
 **edgar-demeude/edgar-demeude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
