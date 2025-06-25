@@ -1,4 +1,8 @@
-## Hi 👋, I'm Edgar DEMEUDE
+👋 I’m Edgar, an AI graduate student at Claude Bernard University Lyon 1.  
+🔬 Passionate about research, open-source, and applied machine learning.  
+🇯🇵 Preparing a research internship in Japan (2026) in computer vision, NLP, or AI ethics.  
+💡 I like clean code, smart interfaces, and good vizualisations of data.  
+📎 Projects: simulation, LLMs, vision, educational AI.
 
 <!--
 **edgar-demeude/edgar-demeude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
