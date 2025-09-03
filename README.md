@@ -2,15 +2,16 @@
 
 🎓 **Graduate student in Artificial Intelligence**  
 *Université Claude Bernard Lyon 1 – France*  
-Currently preparing a **5–6 month research internship in Japan** (2026)
+Currently preparing a **5–6 month research internship in Lyon**, followed by a **PhD in Japan** (starting 2026)
 
 ---
 
 ## 🚀 Interests & Focus
 
+- 🛡️ **AI alignment, safety, ethics & prevention**  
+- 📚 **Education & medicine**: building useful and responsible technologies  
 - 🤖 **Applied AI**: computer vision, LLMs, robotics  
-- 📚 **Education & medicine**: meaningful, ethical tech  
-- 🧠 AI for social impact & critical thinking
+- 🌍 AI for social impact & critical thinking
 
 ---
 
