@@ -8,7 +8,7 @@ Currently preparing a **5–6 month research internship in Lyon**, followed by a
 
 ## 🚀 Interests & Focus
 
-- 🛡️ **AI alignment, safety, ethics & prevention**  
+- 🛡️ **AI explainability, alignment , ethics & safety**  
 - 📚 **Education & medicine**: building useful and responsible technologies  
 - 🤖 **Applied AI**: computer vision, LLMs, robotics  
 - 🌍 AI for social impact & critical thinking
