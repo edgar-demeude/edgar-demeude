@@ -2,16 +2,16 @@
 
 🎓 **Graduate student in Artificial Intelligence**  
 *Université Claude Bernard Lyon 1 – France*  
-Currently preparing a **5–6 month research internship in Lyon**, followed by a **PhD in Japan** (starting 2026)
+Currently doing a **5 month research internship in Lyon** ("Enhancing AI Moral Value Representation through Argumentation Frameworks with Gradual Semantics").
+Plan on following by a **PhD in Japan** (starting 2026).
 
 ---
 
 ## 🚀 Interests & Focus
 
-- 🛡️ **AI explainability, alignment , ethics & safety**  
-- 📚 **Education & medicine**: building useful and responsible technologies  
-- 🤖 **Applied AI**: computer vision, LLMs, robotics  
+- 🛡️ **AI explainability, alignment , ethics & safety**
 - 🌍 AI for social impact & critical thinking
+- 📚 **Education & medicine** 
 
 ---
 
@@ -20,6 +20,12 @@ Currently preparing a **5–6 month research internship in Lyon**, followed by a
 **Languages**: Python, Java, C++  
 **Libraries**: PyTorch, scikit-learn, pandas, Keras  
 **Tools**: Git, Jupyter, REST APIs, Linux
+
+---
+
+## 🌐 Website
+
+[edgar-demeude.com](https://www.edgar-demeude.com)  
 
 ---
 
