@@ -2,8 +2,7 @@
 
 🎓 **Graduate student in Artificial Intelligence**  
 *Université Claude Bernard Lyon 1 – France*  
-Currently doing a **5 month research internship in Lyon** ("Enhancing AI Moral Value Representation through Argumentation Frameworks with Gradual Semantics").
-Plan on following by a **PhD in Japan** (starting 2026).
+My master's thesis is called "Enhancing AI Moral Value Representation through Argumentation Frameworks with Gradual Semantics".
 
 ---
 
