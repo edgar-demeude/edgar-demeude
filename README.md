@@ -2,7 +2,7 @@
 
 🎓 **Graduate student in Artificial Intelligence**  
 *Université Claude Bernard Lyon 1 – France*  
-My master's thesis is called "Enhancing AI Moral Value Representation through Argumentation Frameworks with Gradual Semantics".
+My master's thesis is called ["Enhancing AI Moral Value Representation through Argumentation Frameworks with Gradual Semantics"](https://edgar-demeude.com/pdf/master_thesis.pdf).
 
 ---
 
